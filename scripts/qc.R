@@ -21,4 +21,4 @@ fastqc(fq.dir = folder, qc.dir = "./results/fastqc_results")
 
 # View the report rendered by R functions
 qc_report(qc.path="./results/fastqc_results", 
-          result.file="reportFile", preview = TRUE)
+          result.file="./results/fastqc_results/reportFile", preview = TRUE)

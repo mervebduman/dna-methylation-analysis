@@ -1,14 +1,14 @@
 # dna-methylation-analysis
 
-This is a showcase analysis to find methylation changes in non–small cell lung cancer (NSCLC) cell line (A549) samples in normal and metastatic conditions.
+This analysis highlights methylation changes in the non-small cell lung cancer (NSCLC) cell line A549, comparing its baseline state to a highly metastatic condition.
 
 ## Data
 Fastq files were acquired from GEO.
 
 | Accession number | Condition |
 ---------------------------------
-| [GSM1084238](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1084238) | low metastatic |
-| [GSM1084239](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1084239) | high metastatic |
+| [GSM1084238](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1084238) | normal |
+| [GSM1084239](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1084239) | highly metastatic |
 
 ## Preprocessing
 ### Quality control of raw sequences

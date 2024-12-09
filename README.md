@@ -6,7 +6,7 @@ This analysis highlights methylation changes in the non-small cell lung cancer (
 Fastq files were acquired from GEO.
 
 | Accession number | Condition |
----------------------------------
+-------------------|--------------
 | [GSM1084238](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1084238) | normal |
 | [GSM1084239](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1084239) | highly metastatic |
 
